@@ -32,7 +32,7 @@ public class DealPageTest extends TestBase{
 	 login = new LoginPage();
 	 login.login();
 	 deals = new DealsPage();
-	 
+	 //this is git cooment
 	 UtilityPage.switchtoFrame("mainpanel");
 	 
 	 
